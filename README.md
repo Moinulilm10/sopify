@@ -3,16 +3,6 @@
 Full Stack E-Commerce App built with React, using Firebase and Stripe API, deployed with Heroku
 To view the app, visit: [https://crwn-live0708.herokuapp.com/](https://crwn-live0708.herokuapp.com/)
 
-## Table of Contents
-
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Screenshots](#screenshots)
-- [Work In Progress](#work-in-progress)
-- [Future Updates](#future-updates)
-
 ## Getting Started
 
 Follow these simple steps to run the project locally:
